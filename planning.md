@@ -46,11 +46,11 @@ them incredibly difficult for a student to find quickly during course registrati
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-
+500 characters
 **Overlap:**
-
+100 characters
 **Reasoning:**
-
+Rate My Professors reviews and Reddit comments are usually short (1–2 paragraphs). A 500-character limit captures roughly 3–5 sentences, which keeps an individual student's review of a professor whole. The 100-character overlap ensures that if a critical detail (like a professor's name or course code) is written at the boundary of a cut, it won't be sliced in half and lost.
 ---
 
 ## Retrieval Approach
@@ -62,11 +62,11 @@ them incredibly difficult for a student to find quickly during course registrati
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+all-MiniLM-L6-v2 (via the sentence-transformers Python library)
 **Top-k:**
-
+4
 **Production tradeoff reflection:**
-
+If we were deploying this for thousands of real users with an unlimited budget, all-MiniLM-L6-v2 might struggle with long text nuances. We would weigh upgrading to a hosted API model like OpenAI's text-embedding-3-large or Cohere's embeddings. This would grant a larger context window and better handle student slang/abbreviations (like "prof", "easy A", "SNHU-fit"), though it would introduce network latency and per-query costs.
 ---
 
 ## Evaluation Plan
@@ -92,9 +92,12 @@ them incredibly difficult for a student to find quickly during course registrati
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Reddit threads contain usernames, bot automated comments, and edits (e.g., "EDIT: spelling"). 
+   This can corrupt embeddings and lead to poor retrieval.
 
-2.
+2. A student might say "Professor X was terrible." in one sentence, and "But Professor Y was amazing!" 
+   in the next. If our chunking cuts exactly between those sentences, the system might associate the word
+   "terrible" with Professor Y.
 
 ---
 
@@ -105,6 +108,7 @@ them incredibly difficult for a student to find quickly during course registrati
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+Go to mermaid_diagram.png    
 
 ---
 
@@ -119,9 +123,22 @@ them incredibly difficult for a student to find quickly during course registrati
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+  
+* **Milestone 2:**
+  I filled in the empty sections using the parameters above (adjusting the phrasing slightly so it matches your exact project thoughts).
+  Ensure your **Domain**, **Documents** table, and **Evaluation** table from Milestone 1 are completely filled in.
 
-**Milestone 3 — Ingestion and chunking:**
+* **Milestone 3:** 
+  I will pass my "Chunking Strategy" section to the AI tool and ask it to write a Python script 
+  using `langchain` or standard python text-splitters to load text files and split them into 500-character chunks with 100-character 
+  overlaps. I will verify it by printing the character count of the generated chunks.
 
-**Milestone 4 — Embedding and retrieval:**
+* **Milestone 4:** 
+  I will provide the AI tool with my "Retrieval Approach" spec. I will ask it to write code that 
+  takes those chunks, embeds them using `sentence-transformers` (`all-MiniLM-L6-v2`), saves them to a local `ChromaDB` vector store, and 
+  writes a query function. I will verify it by querying a professor's name and checking if the output chunks are actually about that professor.
 
-**Milestone 5 — Generation and interface:**
+* **Milestone 5:** 
+  I will give the AI my "Evaluation Plan" and system requirements. I will ask it to pass the 
+  retrieved chunks as context into a Gemini API prompt template, enforcing strict grounding ("Answer only using the provided text"). I'll 
+  verify it by testing my 5 evaluation questions.
