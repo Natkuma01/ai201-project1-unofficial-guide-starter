@@ -9,8 +9,13 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+## Domain
 
+This system focuses on tracking and searching student reviews for Computer Science professors at Southern New Hampshire University (SNHU). 
+This knowledge is highly valuable because official course descriptions only list syllabus topics, completely hiding an instructor's actual
+teaching style, grading speed, responsiveness on Discord/email, and clarity of project feedback. Because SNHU has a massive online student
+population, these crucial student experiences are buried across hundreds of unorganized Reddit threads and individual review sites, making 
+them incredibly difficult for a student to find quickly during course registration.
 ---
 
 ## Documents
@@ -20,16 +25,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Rate My Professors | Rating of all professors from the CS department in SNHU | https://www.ratemyprofessors.com/search/professors/667?q=*&did=11 |
+| 2 | Reddit (r/SNHU) | Comprehensive thread on CS Professors to choose or avoid | https://www.reddit.com/r/SNHU/comments/mlry5g/cs_professors_to_chooseavoid |
+| 3 | Reddit (r/SNHU) | Student recommendations for the best CS Major Professors | https://www.reddit.com/r/SNHU/comments/18ce4w2/best_computer_science_major_professors_ive_had_so/ |
+| 4 | Reddit (r/SNHU) | Instructor selection advice for difficult courses like CS330/CS340 | https://www.reddit.com/r/SNHU/comments/pogy8i/help_picking_good_instructors/ |
+| 5 | Reddit (r/SNHU) | Discussion thread tracking experiences in CS 210 and student burnout | https://www.reddit.com/r/SNHU/comments/1s3lq09/cs_210_woes/ |
+| 6 | Rate My Professors | Professor Loay Alnaji - Computer Science Profile | https://www.ratemyprofessors.com/professor/2290372 |
+| 7 | Rate My Professors | Professor Cynthia Marcello - Computer Science Profile | https://www.ratemyprofessors.com/professor/2103445 |
+| 8 | Rate My Professors | Professor James Shinevar - Computer Science Profile | https://www.ratemyprofessors.com/professor/2642511 |
+| 9 | Rate My Professors | Professor Megan Allen Black - Computer Science Profile | https://www.ratemyprofessors.com/professor/2789110 |
+| 10 | Rate My Professors | Professor Robert Whale - Computer Science Profile | https://www.ratemyprofessors.com/professor/2591140 |
 
 ---
 
@@ -73,11 +78,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Which SNHU Computer Science professors are known for giving detailed, helpful feedback on coding projects? | Kraya Ramsey |
+| 2 | Is there a specific professor for CS-410 (Programming Languages) who is highly recommended? | Suresh Sigera |
+| 3 | Which professors should I avoid generally? | Mike Prasad |
+| 4 | How accessible are professors via email or Discord when online students get stuck on a coding assignment? | Depend on the professor, they are suppose to reply within 24 hours, but some professor do not reply at all or some professor reply within an hour |
+| 5 | Which instructors are noted for strictly enforcing deadlines versus those who offer extensions? | Daniel Ward |
 
 ---
 
