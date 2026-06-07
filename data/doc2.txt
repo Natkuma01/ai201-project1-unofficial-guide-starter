@@ -1,0 +1,125 @@
+CS Professors to choose/avoid?
+I am in my second term at SNHU and my IT 145 professor is nonexistent. Are there any professors who current or former students prefer for CS courses? Any to avoid?
+
+12
+·
+18
+u/DatadogHQ avatar
+DatadogHQ
+•
+Promoted
+
+Top enterprise devops teams use 11 monitoring platform attributes. Download the ebook for free.
+Learn More
+datadoghq.com
+Thumbnail image: Top enterprise devops teams use 11 monitoring platform attributes. Download the ebook for free.
+Comments Section
+u/EdgelordZeta avatar
+EdgelordZeta
+•
+5y ago
+I've read that Loay Alnaji should be avoided. I had my regular tern call with my advisor today and inquired about the possibility of avoiding certain instructors. I couldn't recall the name but she knew exactly who 8 was t talking about.
+
+She assured me that I won't have a class with him.
+
+
+11
+lilia_z
+•
+5y ago
+I had CS330 with Alnaji and I’ll disagree. He provided a lot of extra help with the assignments and was helpful whenever needed; willing to help figure out where the code was going wrong. I’ve had a lot of professors who just referred me back to the material and were there basically just to check mark the grading rubric. He might be a tough grader (Personally I didn’t have an issue with that), but he’s actually involved and you will in fact learn something in his classes 🤷🏻‍♀️.
+
+
+6
+superblockkparty
+OP
+•
+5y ago
+I'll give him a chance if I am able!
+
+1
+
+6 more replies
+u/TheHippoScientist avatar
+TheHippoScientist
+•
+5y ago
+Alnaji was a good professor in the sense that he did actually try and communicate with us, this was encouraging. However, his help was lackluster to say the least. I was fortunate enough to have taken a lot of C++ courses from other schools before hand, but when people were having trouble setting up the environments and understanding what the programs were doing he said "It seems like a lot of you just don't understand C++, I cannot help with that.". Understand that SNHU has maybe two C++ courses, including this one. To add to this OpenGL is not exactly friendly and when you're taught mostly in concepts it was no surprise how many people ran into issues. I ran into the issue of assuming my assignments were uploaded when they weren't, this assignments are heavy so make sure you stick around for the upload times. When I tried to explain this he was not having it at all.
+
+4
+u/EdgelordZeta avatar
+EdgelordZeta
+•
+5y ago
+That's the first positive thing I've read about him. It sounds nice actually. In the CS program, I like instructors that actually involve themselves and answer questions. My CS 210 instructor was like this. He acknowledged excellence but didn't shy away from telling you where you messed up. He also answered questions and gave insight to things beyond the course material
+
+2
+
+1 more reply
+[deleted]
+•
+5y ago
+I have to disagree I think Alnaji is the best I’ve had so far. He is hard but he cares and he makes it hard for those students who just copy paste code from chegg / course hero. You really feel like you completed a real college course with him.
+
+5
+u/LukasJckson avatar
+LukasJckson
+•
+3y ago
+Best to avoid especially if you're Jewish.
+
+
+1
+u/Burnerplumes avatar
+Burnerplumes
+•
+3y ago
+This aged like a fine wine.
+
+1
+AmYisraelChai7
+•
+3y ago
+Avoid. Plus he'll be in prison soon.
+
+
+2
+superblockkparty
+OP
+•
+3y ago
+I graduated several months ago. I had to do some research into your comment but wow I did not expect that!
+
+2
+superblockkparty
+OP
+•
+5y ago
+I understand the SNHU model and I work a full-time job, so I am fine with going an independent learning route. What I am looking for is a professor who can explain a subject to me or direct me to a resource that does (preferably one they created but it's not a big deal). I am also okay with that professor telling me they can't help if my question is too basic, because ultimately I just want a professor who will consistently get back to me, whether they respond once within 24 hours or once within 48 hours. Just get back to me.
+
+1
+u/pennengonline avatar
+u/pennengonline
+•
+Promoted
+
+Online master’s degrees to prepare you to lead in an interconnected world.
+Learn More
+online.seas.upenn.edu
+Thumbnail image: Online master’s degrees to prepare you to lead in an interconnected world.
+SupremeEggNog
+•
+5y ago
+Im a current student, and I would try to avoid Bancroft. She's definitely smart, and she knows her stuff, but teaching is not her strong suit it seems.
+
+4
+AtomicBlackBear
+•
+5y ago
+In my last year and can honestly say I haven’t had a single good one for any of the CS classes lesson plans and feedback have all been lack luster and done so late in the week that it’s impossible to learn from any mistakes they may call out ( key being if they even address the mistake or provide any useful feedback whatsoever ) would highly recommend just studying on your own and doing a lot of personal projects on top of the garbage lessons
+
+2
+codingbran
+•
+5y ago
+Thanks for this post

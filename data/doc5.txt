@@ -1,0 +1,79 @@
+CS 210 woes
+Currently in CS210 (Programming Languages) along with MAT350 (Linear Algebra). Feeling completely burned out and like I don't belong.
+
+I really enjoyed the intro course for Python, Java was OK too, but this course for C++ is testing me. I can work through Zybooks well enough and do the challenges to help me understand it better, even though they aren't required. But the projects just don't seem to line up with what we are learning at the time.
+
+For project one, I ended up spending a lot of my time googling for help and hints to help me work through it. I eventually ended up with a well-working program, but it took a lot longer than I feel like it should have.
+
+Now on project two, it feels like a similar situation, they want us to include exceptions, which we skimmed through in the Java course, but we haven't even touched them in this course. I did find some videos from other professors at SNHU to help, but it feels discouraging.
+
+Working full-time, along with having to find time to do all this, is getting rather stressful. I don't want to drop down to one course a semester because I want to get my degree sooner rather than later.
+
+Has anyone else felt this way? I do really enjoy creating my own code and debugging code, but this class is testing my limits and makes me feel like I won't make it when I want to change careers.
+
+7
+·
+8
+u/ASUOnline avatar
+ASUOnline
+•
+Promoted
+
+"Courses are designed to make complex material feel approachable. I initially expected online learning to feel distant, but the level of interaction with professors, advisors, and classmates was outstanding.” - Sareh S.
+Learn More
+asuonline.asu.edu
+Thumbnail image: "Courses are designed to make complex material feel approachable. I initially expected online learning to feel distant, but the level of interaction with professors, advisors, and classmates was outstanding.” - Sareh S.
+Comments Section
+
+AutoModerator
+MOD
+•
+2mo ago
+TheEvilDog88
+•
+2mo ago
+CS210 assumes you know some things about coding already. It builds on the python and java courses just using a different syntax. It’s definitely not the easiest class though.
+
+I’m feeling burnt out by Calculus, I haven’t even gotten to applied linear algebra yet and feel that will be even worse.
+
+We are half way through it though. Keep plugging away. Cs-210 does get a bit better and less reading around this time so it should get a bit better for you hopefully!
+
+
+3
+Phragasm
+•
+2mo ago
+I took Linear Algebra last semester. The first 3 weeks are relatively easy, and then it gets harder. One thing I highly recommend is a graphing calculator, whether its online or in person. I was doing hand multiplication of matrices for the first 3 modules and that made the class feel like it took all week to do. But then I figured out that you can just enter a matrix in the graphing calculator and it made it much better. The concepts from Module 4 onwards are a bit abstract, and even though I got an A in the class, i still don't understand some things.
+
+1
+u/val0ciraptor avatar
+val0ciraptor
+•
+2mo ago
+Tutoring. The early CS programs offer tutoring. That's how I passed my early courses. 
+
+Two of the projects for that class should be not too terrible. One is a total drag and if I remember correctly it's the clock one.
+
+Also, get on the Discord server if you're not already there. All the CS majors will provide guidance such as letting you know if the base code has issues or if a program is outdated AND the workarounds for that.
+
+3
+u/snhu avatar
+snhu
+•
+2mo ago
+Hi OP! We are sorry to read that you are feeling so burnt out. This is completely normal. So normal that we even have an article about it. Especially for online students who are still living their every day lives and routines, it can be hard. Check out the tools and resources we have here: https://www.snhu.edu/about-us/newsroom/education/college-burnout
+
+1
+Altruistic_Turn_9518
+•
+2mo ago
+Yes! I work full-time and have been on the 2-class roll for about a year now. Last semester kicked my arse. Totally burnt out, and I blame it on the winter break and CS360 & CS370. They weren't overly hard, just not as enjoyable IMO. I'm currently in MAT350 and CS465, and honestly, I'm not sure if these classes are easier or if I'm just used to being burnt out, but they do not seem as labor-intensive and at the same time more straightforward......I'm already eyeballing that week of no classes between C-2 and C-3. Good luck, hang in there!
+
+1
+u/Strange_Doughnut917 avatar
+Strange_Doughnut917
+•
+2mo ago
+I only take one class at a time, I'm far too busy in life to do 2, especially in winter as I snowboard every weekend. Right now I'm working 40 hours, building an android app, it's my first maple sap season, and still snowboarding on the weekend.....exhausting. That said, I just fishing cs 210 which I enjoyed, I also liked applied linear algebra when I took it. You'll make it just keep pushing!
+
+1

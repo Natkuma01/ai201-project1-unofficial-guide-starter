@@ -30,9 +30,9 @@ them incredibly difficult for a student to find quickly during course registrati
 | 3 | Reddit (r/SNHU) | Student recommendations for the best CS Major Professors | https://www.reddit.com/r/SNHU/comments/18ce4w2/best_computer_science_major_professors_ive_had_so/ |
 | 4 | Reddit (r/SNHU) | Instructor selection advice for difficult courses like CS330/CS340 | https://www.reddit.com/r/SNHU/comments/pogy8i/help_picking_good_instructors/ |
 | 5 | Reddit (r/SNHU) | Discussion thread tracking experiences in CS 210 and student burnout | https://www.reddit.com/r/SNHU/comments/1s3lq09/cs_210_woes/ |
-| 6 | Rate My Professors | Professor Loay Alnaji - Computer Science Profile | https://www.ratemyprofessors.com/professor/2290372 |
-| 7 | Rate My Professors | Professor Cynthia Marcello - Computer Science Profile | https://www.ratemyprofessors.com/professor/2103445 |
-| 8 | Rate My Professors | Professor James Shinevar - Computer Science Profile | https://www.ratemyprofessors.com/professor/2642511 |
+| 6 | Rate My Professors | Professor Philip Enkema - Computer Science Profile | https://www.ratemyprofessors.com/professor/2810257 |
+| 7 | Rate My Professors | Professor Mahmud Hasan - Computer Science Profile | https://www.ratemyprofessors.com/professor/2860204 |
+| 8 | Rate My Professors | Professor Jason Proske - Computer Science Profile | https://www.ratemyprofessors.com/professor/2112092 |
 | 9 | Rate My Professors | Professor Megan Allen Black - Computer Science Profile | https://www.ratemyprofessors.com/professor/2789110 |
 | 10 | Rate My Professors | Professor Robert Whale - Computer Science Profile | https://www.ratemyprofessors.com/professor/2591140 |
 

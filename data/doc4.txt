@@ -1,0 +1,203 @@
+Help picking good instructors
+I'm desperate for information on instructors after the worst experience I've ever had with a college instructor (Vivian Lyon).
+
+I'm looking for help picking an instructor for CS330 and CS340 but, to help any current or future students reading this, it would be nice if everyone could share their experiences with any CS instructor here.
+
+I'm currently looking at L. Alnaji, M. Wabara, E. Rodriguez, J. Phillips, T. Iles, T. Kellogg, J. Sanford, and M. Walker. If anyone has any experience with these instructors, I would really appreciate it if you could share that information.
+
+I can't find any information on any of these instructors - none of them seem to have any reviews on ratemyprofessor. But after the worst experience of my college career with an instructor last term (long story short - it took over 6 weeks and over 15 hours of my time to get a grade corrected due to a mistake by an instructor - Vivian Lyon - who refused to admit making a mistake and even lied to cover it up), I'm desperate to have an idea of what an instructor is like before registering for classes with them.
+
+I can start by saying I took CS 255 with James Shinevar and enjoyed it. He made himself available for questions in a discord channel which was pretty cool and seemed very approachable overall.
+
+I'm currently taking CS 320 with Joe Rangitsch. He doesn't provide super useful feedback or a ton of information in general. It takes him a while to grade assignments but he seems to be a very easy grader and has made it clear that he's understanding as far as late assignments go if the student has a decent excuse.
+
+13
+·
+21
+u/RedditforBusiness avatar
+RedditforBusiness
+•
+Promoted
+
+Reach Users Based on Subreddit Interest.
+Learn More
+ads.reddit.com
+Thumbnail image: Reach Users Based on Subreddit Interest.
+Comments Section
+u/Kitchen_District avatar
+Kitchen_District
+•
+5y ago
+Currently in CS-499 this semester. I took CS330 and CS340 earlier this year and was lucky enough to have instructors that were easy going. I took CS340 with T. Iles and cannot say enough good things about him. That was my second class with him and both classes he was an easy grader. As for CS330 I had M. Wabara. He was a very easy grader but I cannot recall what kind of feedback he leaves on assignments. Hope this helps!
+
+
+3
+u/frustratedpeanut avatar
+frustratedpeanut
+OP
+•
+5y ago
+That’s a huge help! Thank you so much.
+
+I’ll be registering for at least one class with iles then. Possibly wabara too.
+
+Best of luck with the rest of your classes!
+
+3
+
+[deleted]
+•
+4y ago
+u/AdExisting8114 avatar
+AdExisting8114
+•
+5y ago
+Not sure if you have tried it but personally I'll try to look up professors on ratemyprofessor.com before I take the class to see it there's any reviews on there. Hope that helps
+
+
+2
+u/frustratedpeanut avatar
+frustratedpeanut
+OP
+•
+5y ago
+Oh definitely. I love that site. Normally it’s super helpful but for some reason, none of these professors have any ratings there (i think one has one rating but that’s it)
+
+That’s why I was hoping someone might recognize those names and be able to offer some info
+
+2
+u/Old_Muscle_1331 avatar
+Old_Muscle_1331
+•
+5y ago
+Who was the problematic professor?
+
+
+2
+u/frustratedpeanut avatar
+frustratedpeanut
+OP
+•
+5y ago
+I don't expect you to read all of this but it's just for anyone who is slightly curious about what my issues with her actually were.
+
+Vivian Lyon in CS 260 Data Structures and Algorithms - I could honestly write pages on all the ways she demonstrated unprofessionalism and incompetence in the subject that she was supposed to be instructing us on (I'm happy to provide more details if they're requested). I've been to three different colleges and taken dozens of classes with dozens of professors and she's hands down the worst professor I've ever. I took the time to write a review for her on ratemyprofessor and I filled out a course evaluation for her - this is the first time I've ever done that. I knew it wouldn't help me but I hope that it can help someone else.
+
+tl;dr - it was like if a mechanic tried to say that your car wouldn't turn on at all and that it's because you have a flat tire (when you have video evidence of your car turning on just fine before you gave it to them and when none of your tires are flat - they just think it's flat because your tire looks a little different) - and then they proceed to talk down to you and explain how they know what they're talking about because they've been doing this a long time and you need to just accept what they're saying and move on. If a mechanic said that to me, I would never go back to that auto-shop and would question how they got that job. Similarly, Vivian has absolutely no business instructing a class related to programming after demonstrating not understanding fundamental concepts in programming. It's honestly made me question SNHU as an institution.
+
+She tried to tell me my program wouldn't run at all and gave me 0 for correctness - sharing a 10-second clip of it being stuck in an infinite loop on launch.
+
+I sent her an email saying that was odd because it runs flawlessly on my computer and sent her a video that was at least a minute long - showing me launching the program, running each function multiple times and in various orders with no issues.
+
+The rubric has a section for code that runs only some of the time and it's not worth 0% - so, after that evidence alone she should have at least retested my program and considered changing it from 0% (does not function at all).
+
+She responded by saying that the grade was final, her 10-second clip was proof that my code was flawed, I need to start testing my programs before submitting them, and that I need to accept and learn from my mistakes and focus on other assignments that are due.
+
+I had to ask her three times in a long back and forth to provide me with corrections if my code was actually flawed. I had to say that "as an instructor, the least you can do is tell me what I did wrong. Especially since I'm unable to replicate the issue that you had and don't know how I could possibly avoid it in future assignments if I'm not having that issue." After that, she caved and said she would get back to me with corrections. When she got back to me a couple of days later she said, the problem is your code doesn't look like this section (she copy/pasted a function definition that she surely got from some guide).
+
+My code looked nearly identical in all functional aspects to what she shared - it's like she did not point to what part of my code was causing the issue because she didn't know how to debug my program to identify the problem and she didn't know that the differences she was seeing in the code she copied and pasted were not functionally different. But the worst part of all - the section of code she said was causing an infinite loop on launch was a function definition with no syntax issues that is not executed at launch - the function corresponding to that definition is not called until the user provides input to the program. Therefore, it could not possibly cause an infinite loop on launch before the user even provides any input.
+
+So, not only did it appear that she didn't understand what components of the code cause functional differences, she didn't seem capable of debugging a simple program, she didn't seem to understand that a program not running properly one time on one machine doesn't necessarily mean that the code is flawed, and she didn't seem to understand that code that compiles just fine and is not executed at launch should not cause an infinite loop at launch!
+
+I pointed all of this out to her - the very least she could have done was retest my program - instead, she just repeated that I need to test my programs before I submit them and I need to accept and learn from my mistakes.
+
+All of this touches on her incompetence related to programming but doesn't touch on all the ways that she was unprofessional including seemingly lying to back up her initial claims.
+
+It took about 6 weeks and over 15 hours of my time before I finally won my dispute and was essentially told that I was right from the beginning and my program did run properly. I sent her an email showing her that she was wrong and saying she owed me an apology for all of the time that she wasted (simply because she refused to just retest my program) and for insisting I didn't want to learn from my mistakes but she never responded.
+
+
+5
+u/bengiffer avatar
+bengiffer
+•
+4y ago
+If it's any consolation, these many months later. I have her in CS-305 Software security; and she has submitted me to the academic integrity team for apparently not citing sources correctly or in the right format despite definitely doing just that. And when brought up I was berated because she apparently was forgiving and allowed me to resubmit a previous assignment she accused me I plagiarized. Every communication with her she has talked down and berated me and genuinely provided the worst college experience it has pushed me to consider taking a break
+
+3
+
+3 more replies
+fuzzyintrovert
+•
+5y ago
+Wow… I’m so sorry all that happened and I feel for you after reading it. I also noticed there was no way to really look into your instructors before hand as I had a bad (not as bad as yours though) experience for a pre-calc class that I’m now going to take a second time in October.
+
+2
+u/Lower-Hovercraft5091 avatar
+Lower-Hovercraft5091
+•
+2y ago
+I know this thread is old, but dang it still rings true. She's moved on to teaching in the graduate programs at my school. The single worst professor I have ever dealt with and everything written here is exactly how she still is. What's funny is I've seen some posts from her online answering Tech FAQs in a professional setting with Chat GPT responses, as if she couldn't be bothered to write out her own thoughts. I have been suffering through her this last semester and it has taken everything for me not to drop the class. She consistently creates new requirements that don't exist in the Syllabus, any Rubric, or even within the instructions of any particular assignment. Just pulls them out of thin air. Then in her feedback, its almost as if she isn't even reading the papers being submitted to her. She'll say something is missing, even if at just a cursory glance its clear as day that the "missing" element is right there in the text. It's like I'm in the twilight zone taking crazy pills.
+
+1
+u/studycom avatar
+u/studycom
+•
+Promoted
+
+Now with more Gen Eds
+Learn More
+study.com
+Thumbnail image: Now with more Gen Eds
+u/EqualAdept887 avatar
+EqualAdept887
+•
+5y ago
+I had CS-250 with M Walker, I thought he was good. I agree James Shinevar is also very good.
+
+2
+u/Realistic-Spell5381 avatar
+Realistic-Spell5381
+•
+4y ago
+Another teacher to avoid is Cynthia Marcello. I had her for CS-210 and had a similar experience OP had with Vivian Lyon. She was incredibly rude, condescending and unprofessional. Stay away from her as well.
+
+Jeff Sanford is nice but takes forever when it comes to feedback. There is a lack of feedback and late grading on assignments. Im currently working on the second part of a large project. We are supposed to take the feedback from the first part and incorporate it to this second part. The problem is I haven't received feedback/grades from the first part and the second part is due tonight. So I've been forced to improvise. Like I said before he's been nice and professional with me the few times I've talked with him. But beware any time you submit an assignment or an email, expect it to take him 4-7 days to get back to you.
+
+Christopher Eppenger is another one with bad communication skills. I took him for CS-255 and again no feedback until 6-7 days after the assignment was submitted. What made it even worse was he wanted you to incorporate his feedback into future assignments. Well I can't exactly do that if you don't provide me with that feedback until the last second.
+
+Thomas Butler is a really great teacher and will work with you and try to help you out. He is a very nice guy and even though I struggled in his class (CS-465) that was mainly due to how poorly structured the class and teaching materials were and not him (he didn't create the teaching materials).
+
+One of the worst instructors I've had is one I'm currently taking: Mohammad Alam. If you can please avoid him at all costs. When you ask him questions he will give vague non descriptive answers assuming you can even get ahold of him. I'm currently struggling on an assignment and have sent him 2 emails over the course of 4 days asking him for help and he hasn't responded. It doesn't help the course material (CS-470) is missing key details from its instructions. Before this class, I had a 3.8 gpa but I currently have an F in the class due to 2 late assignments that I've tried asking the instructor for help and haven't received it. I might be able to salvage this class otherwise I'll retake it with a different instructor.
+
+That being said, most of the professors at SNHU take forever to grade and give feedback which makes it incredibly frustrating to be productive in any class. So chances are good you will get a teacher that takes forever to grade and give feedback.
+
+2
+[deleted]
+•
+4y ago
+This is old but I’ll add to this Vivian lyon is hands down the worse instructor at SNHU it’s not just her grading. She adds stuff to do that’s not included in the rubric and if you don’t do that she takes points off in areas that are not relevant. The rubric or course means nothing to her I can’t Imagine how she’s still employed she must have the classes with the lowest grades and she must get the worse course evaluations
+
+
+1
+u/bozojoe00 avatar
+bozojoe00
+•
+4y ago
+I haven't learned anything except that the Dr is a APA nazi. This should have been listed as a English course.
+
+1
+u/stratcat22 avatar
+stratcat22
+•
+4y ago
+I had Lyon awhile back as well. Absolute nightmare of an instructor and so full of herself. My big conflict with her was on an assignment where she marked off a bunch of points and her feedback said I should’ve included x, y, z, etc. in the paper when I literally included all of that. I immediately wrote an email to her and advising with many screenshots and files of proof that she was bs’ing and she immediately replied trying to state her case. Funny enough, I emailed her with a simple question weeks earlier and never got a response.
+
+I fought hard to get my grade revised but she stuck to her guns with horrible excuses. Thankfully I still finished that class with an A or else I would’ve elevated it to a formal grade protest.
+
+For anybody who finds this post though, Alnaji is a good professor for CS-330. He provides a bunch of really helpful videos and resources, but wasn’t the greatest at answering my questions. Sometimes it felt like a call center asking him a question and receiving a super generic response, so overall he was good I’d say.
+
+
+1
+u/bozojoe00 avatar
+bozojoe00
+•
+3y ago
+ratemyprofessor.com
+
+maybe's its actually a bot with too many worthless certifications behind its name
+
+1
+Examination-Life
+•
+3y ago
+Not E. Rodriguez for CS330
