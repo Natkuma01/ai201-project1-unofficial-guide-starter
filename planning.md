@@ -33,8 +33,8 @@ them incredibly difficult for a student to find quickly during course registrati
 | 6 | Rate My Professors | Professor Philip Enkema - Computer Science Profile | https://www.ratemyprofessors.com/professor/2810257 |
 | 7 | Rate My Professors | Professor Mahmud Hasan - Computer Science Profile | https://www.ratemyprofessors.com/professor/2860204 |
 | 8 | Rate My Professors | Professor Jason Proske - Computer Science Profile | https://www.ratemyprofessors.com/professor/2112092 |
-| 9 | Rate My Professors | Professor Megan Allen Black - Computer Science Profile | https://www.ratemyprofessors.com/professor/2789110 |
-| 10 | Rate My Professors | Professor Robert Whale - Computer Science Profile | https://www.ratemyprofessors.com/professor/2591140 |
+| 9 | Rate My Professors | Professor Thomas Butler - Computer Science Profile | https://www.ratemyprofessors.com/professor/2883676|
+| 10 | Rate My Professors | Professor Vivian Lyon - Computer Science Profile | https://www.ratemyprofessors.com/professor/2706344 |
 
 ---
 
@@ -78,9 +78,9 @@ If we were deploying this for thousands of real users with an unlimited budget, 
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Which SNHU Computer Science professors are known for giving detailed, helpful feedback on coding projects? | Kraya Ramsey |
-| 2 | Is there a specific professor for CS-410 (Programming Languages) who is highly recommended? | Suresh Sigera |
-| 3 | Which professors should I avoid generally? | Mike Prasad |
+| 1 | Which SNHU Computer Science professors are known for giving detailed, helpful feedback on coding projects? | 
+| 2 | Is there a specific professor for CS-230 (Programming Languages) who is highly recommended? | 
+| 3 | Which professors should I avoid generally? | 
 | 4 | How accessible are professors via email or Discord when online students get stuck on a coding assignment? | Depend on the professor, they are suppose to reply within 24 hours, but some professor do not reply at all or some professor reply within an hour |
 | 5 | Which instructors are noted for strictly enforcing deadlines versus those who offer extensions? | Daniel Ward |
 
